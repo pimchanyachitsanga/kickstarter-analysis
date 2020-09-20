@@ -1,7 +1,7 @@
 # kickstarter-analysis
 Performing analysis on a kickstarter data to uncover trends.
 ## Overview of Project
-The kickstarter data which contains the information of all fundraising campaign in different countries and categories, campaign goal and amount pledged in different currencies, date launched and deadline, and outcomes. We were asked to assist Louise with the analysis of different campaigns in the same category as his play - Fever in order to predict the outcome based on previous campaigns' launch date and funding goal.
+The kickstarter data which contains the information of all fundraising campaign in different countries and categories, campaign goal and amount pledged in different currencies, date launched and deadline, and outcomes. We were asked to assist Louise with the analysis of different campaigns in the same category as his play called Fever, in order to predict the outcome based on previous campaigns' launch date and funding goal.
 ### Purpose
 The purpose of this analysis is to help Louise analyze how different campaigns fared in relation to their launch dates and their funding goals.
 ## Analysis and Challenges

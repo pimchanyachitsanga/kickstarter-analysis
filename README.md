@@ -5,7 +5,6 @@ The kickstarter data which contains the information of all fundraising campaign 
 ### Purpose
 The purpose of this analysis is to help Louise analyze how different campaigns fared in relation to their launch dates and their funding goals.
 ## Analysis and Challenges
-We have performed two analysis as follows:
 ### Analysis of Outcomes Based on Launch Date
 Theatre outcomes based on the launch date line chart analyzes the relationship between month of the year that the campaign is being launched and the percentage of outcome of successful, canceled, and failed.
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
